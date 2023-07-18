@@ -6,7 +6,7 @@
 
 # Hi there, I'm Maguire McMahon! 👋
 
-![Profile Banner](path/to/profile_banner_image.jpg)
+![Profile Banner](./spiral.gif)
 
 
 ## About
