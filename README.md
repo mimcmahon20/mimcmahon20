@@ -25,7 +25,7 @@ I'm a Frontend Developer currently pursuing my degree in Industrial & Systems En
 
 | 📛 Name      | 📎 Description | ⚛️ Languages | 
 | ----------- | ----------- | ----------- |
-| 🔴 [Jammming Spotify App](https://github.com/mimcmahon20/Jammming-Spotify-Playlists) | Description of app | React, CSS |
+| 🔴 [Jammming Spotify App](https://github.com/mimcmahon20/Jammming-Spotify-Playlists) | My first React App I learned about state management, API requests, props, and much more. The app allows users to search for songs, add them to a playlist, add their most listened to songs, and add the playlist to their library. Note: This app requires access to be added in the backend for Spotify's API. If you'd like to try it reach out! | React, CSS |
 | 🟠 [Sky Defenders](https://github.com/mimcmahon20/Sky-Defender) | Stranded in the sky and armed with a lousy weapon, you find yourself fighting endless waves of enemies. Future plans include: | JS, P5.js |
 | 🟡 [Snake meets Djikstra's Algorithm](https://github.com/mimcmahon20/snake) | A combination of a Djikstra's pathfinding algorithm and the classic game Snake. The snake attempts to avoid its tail and the walls while collecting food thus extending its body. Currently, the snake is able to survive until it surrounds itself and loses vision of the food. | JS, HTML, CSS |
 | 🟢 [Game of Life](https://github.com/mimcmahon20/Game-Of-Life) | An implementation of Conway's Game of Life with constant borders, and the ability to pause and play the animation | JS, P5.js |
