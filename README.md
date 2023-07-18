@@ -1,23 +1,28 @@
 
+| - | - | - | 
+| [About](#about-id) | -------- | ----------- |
+
+[Skills](#languages-id)
+[Projects](#projects)
 # Hi there, I'm Maguire McMahon! 👋
 
 ![Profile Banner](path/to/profile_banner_image.jpg)
 
-## About Me
+
+## About Me {#about-id}
 I'm a Frontend Developer currently pursuing my degree in Industrial & Systems Engineering. I'm passionate about creating immersive, beautiful, user-friendly and engaging web experiences. Constantly learning and exploring new technologies in the frontend realm is what keeps me motivated. 
 
-## Languages, Skills & Frameworks
+
+## Languages, Skills, & Frameworks {#languages-id}
 🔧 HTML5 | CSS | JavaScript | Java | C | Assembly | SQL
 
 💻 Database Management | Unit Testing | Figma | UI/UX
 
 ⚛️ React | React Router | Redux | Node | Jest
 
- - Brief description or highlight.
-
-
 
 ## Projects
+
 | 📛 Name      | 📎 Description | ⚛️ Languages | 
 | ----------- | ----------- | ----------- |
 | 🔴 [Jammming Spotify App](https://github.com/mimcmahon20/Jammming-Spotify-Playlists) | Description of app | React, CSS |
@@ -26,15 +31,17 @@ I'm a Frontend Developer currently pursuing my degree in Industrial & Systems En
 | 🟢 [Game of Life](https://github.com/mimcmahon20/Game-Of-Life) | An implementation of Conway's Game of Life with constant borders, and the ability to pause and play the animation | JS, P5.js |
 
 
-## Education
+## [Education](#education)
 🎓 Virginia Tech | 3.0 GPA | Industrial & Systems Major | Computer Science & Human-Computer Interaction Minors
 
 ✏ CodeCademy Frontend Engineering Career Course
 
-## Get in Touch
+
+## [Get in Touch](#contact)
 ✉️ Email: [your.email@example.com]
 
 💼 LinkedIn: [Your LinkedIn Profile URL]
+
 
 ## Check out my portfolio
 🌐 [Portfolio Screenshot](path/to/portfolio_screenshot.png)
