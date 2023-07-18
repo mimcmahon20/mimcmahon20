@@ -18,7 +18,7 @@ I'm a Frontend Developer currently pursuing my degree in Industrial & Systems En
 
 💻 Database Management | Unit Testing | Figma | UI/UX
 
-⚛️ React | React Router | Redux | Node | Jest
+⚛️ React | React Router | Redux | Node | Jest | P5.js | WEBGL
 
 
 ## Projects
@@ -35,7 +35,7 @@ I'm a Frontend Developer currently pursuing my degree in Industrial & Systems En
 ## Education
 🎓 Virginia Tech | 3.0 GPA | Industrial & Systems Major | Computer Science & Human-Computer Interaction Minors
 
-✏ CodeCademy Frontend Engineering Career Course
+✏ CodeCademy Frontend Engineering Career [Course](https://www.codecademy.com/career-journey/front-end-engineer)
 
 
 ## Contact
