@@ -41,6 +41,6 @@ I'm a Frontend Developer currently pursuing my degree in Industrial & Systems En
 ## Contact
 ✉️ Email: mimcmahon20@vt.edu
 
-💼 LinkedIn: [Your LinkedIn Profile URL](https://www.linkedin.com/in/maguire-mcmahon/)
+💼 LinkedIn: [Maguire McMahon](https://www.linkedin.com/in/maguire-mcmahon/)
 
 Feel free to reach out if you have any questions, collaboration ideas, or just want to say hello!
