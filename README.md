@@ -13,23 +13,26 @@ I'm a Frontend Developer currently pursuing my degree in Industrial & Systems En
 
 ⚛️ React | React Router | Redux | Node | Jest
 
-🔴 [Project 1](link-to-project-repo) - Brief description or highlight.
-🟡 [Project 2](link-to-project-repo) - Brief description or highlight.
-🟢 [Project 3](link-to-project-repo) - Brief description or highlight.
+ - Brief description or highlight.
+
+
 
 ## Projects
 | Name      | Description | Languages | 
 | ----------- | ----------- | ----------- |
-| Rugged Organics      | Title       | React |
-| Paragraph   | Text        | JS |
-| Paragraph   | Text        | JS |
+| 🔴 Jammming Spotify App(link-to-project-repo) | Title | React |
+| 🟠 Sky Defenders(link-to-project-repo) | Lorem ipsum Lorem ipsumLorem ipsum | JS |
+| 🟡 [Snake meets Djikstra's Algorithm](link-to-project-repo) |Lorem ipsum Lorem ipsumLorem ipsum | JS |
 
 
 ## Education
-🎓 Virginia Tech | 3.0 GPA | Industrial & Systems Major | Computer Science & Human-Computer Interaction Minors | 
+🎓 Virginia Tech | 3.0 GPA | Industrial & Systems Major | Computer Science & Human-Computer Interaction Minors
+
+✏ CodeCademy Frontend Engineering Career Course
 
 ## Get in Touch
 ✉️ Email: [your.email@example.com]
+
 💼 LinkedIn: [Your LinkedIn Profile URL]
 
 ## Check out my portfolio
