@@ -30,6 +30,8 @@ I'm a Frontend Developer currently pursuing my degree in Industrial & Systems En
 | 🟡 [Snake meets Djikstra's Algorithm](https://github.com/mimcmahon20/snake) | A combination of a Djikstra's pathfinding algorithm and the classic game Snake. The snake attempts to avoid its tail and the walls while collecting food thus extending its body. Currently, the snake is able to survive until it surrounds itself and loses vision of the food. | JS, HTML, CSS |
 | 🟢 [Game of Life](https://github.com/mimcmahon20/Game-Of-Life) | An implementation of Conway's Game of Life with constant borders, and the ability to pause and play the animation | JS, P5.js |
 | 🔵 [Portfolio](https://github.com/mimcmahon20/My-Portfolio) | A static webpage showing off my professional and personal projects and experiences. I chose not to use any libraries or frameworks when building my portfolio to challenge myself. | HTML, CSS, JS |
+| 🟣 [P5.js Art & Simulations](https://editor.p5js.org/mimcmahon20/sketches) | My collection of sketches drawn using Processing, specificially P5.js. Most are inspired by The Coding Train's [Youtube Channel](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw) and coding tutorials. | JS |
+
 
 
 ## Education
