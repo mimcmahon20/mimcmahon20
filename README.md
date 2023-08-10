@@ -24,7 +24,7 @@ I'm a Frontend Developer currently pursuing my degree in Industrial & Systems En
 ## Projects
 
 | 📛 Name      | 📎 Description | ⚛️ Languages | 
-| :-----------: | ----------- | :-----------: |
+| ----------- | ----------- | :-----------: |
 | 🟤 [Portfolio](https://github.com/mimcmahon20/My-Portfolio) | A collection of my best programming work using React and GSAP to handle animations. | React, GSAP, HTML, CSS |
 | 🔴 [McFlix](https://github.com/your-username/McFlix) | Experience the magic of McFlix, a Netflix clone that brings your favorite movies and TV shows to your screen. Explore various genres and enjoy smooth animations. Future plans include enhancing user interactions and optimizing animations. | React, GSAP, HTML, CSS |
 | 🟠 [Jammming Spotify App](https://github.com/mimcmahon20/Jammming-Spotify-Playlists) | My first React App I learned about state management, API requests, props, and much more. The app allows users to search for songs, add them to a playlist, add their most listened to songs, and add the playlist to their library. Note: This app requires access to be added in the backend for Spotify's API. If you'd like to try it reach out! | React, HTML, CSS |
