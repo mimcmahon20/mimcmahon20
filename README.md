@@ -29,7 +29,7 @@ I'm a Frontend Developer currently pursuing my degree in Industrial & Systems En
 | 🟠 [Jammming Spotify App](https://github.com/mimcmahon20/Jammming-Spotify-Playlists) | My first React App I learned about state management, API requests, props, and much more. The app allows users to search for songs, add them to a playlist, add their most listened to songs, and add the playlist to their library. Note: This app requires access to be added in the backend for Spotify's API. If you'd like to try it reach out! | React, HTML, CSS |
 | 🟡 [Snake meets Djikstra's Algorithm](https://github.com/mimcmahon20/snake) | A combination of a Djikstra's pathfinding algorithm and the classic game Snake. The snake attempts to avoid its tail and the walls while collecting food thus extending its body. Currently, the snake is able to survive until it surrounds itself and loses vision of the food. | JS, HTML, CSS |
 | 🟢 [Ecosystem Simulation](https://github.com/mimcmahon20/Ecosystem) | An ecosystem with wolves as the predator, bunnies as the prey, evolution, breeding, and more! 3D visualization. | JS, P5.js |
-| 🔵 [Facility Optimizer](https://github.com/mimcmahon20/Optimization-Game) | A Python game where players guess optimal facility locations relative to random warehouses. Utilizes Gurobi for backend calculations, offering a fun way to learn about optimization and supply chain dynamics. | Python, Gurobi |
+| 🔵 [Facility Optimizer](https://github.com/mimcmahon20/InteractiveFacilityLocationOptimizer) | A Python game where players guess optimal facility locations relative to random warehouses. Utilizes Gurobi for backend calculations, offering a fun way to learn about optimization and supply chain dynamics. | Python, Gurobi |
 
 
 
