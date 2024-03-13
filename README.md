@@ -1,7 +1,4 @@
-[About](#about) 
-[Projects](#projects) 
-[Contact](#contact)
-
+[Portfolio](https://maguiremcmahon.com)
 # Hi there, I'm Maguire McMahon! 👋
 ## About
 I'm a Frontend Developer currently pursuing my degree in Industrial & Systems Engineering. I'm passionate about creating immersive, beautiful, user-friendly, and engaging web experiences. Constantly learning and exploring new technologies in the frontend realm is what keeps me motivated.
