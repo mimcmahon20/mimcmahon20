@@ -1,48 +1,19 @@
-
-|🔴|🟠|🟡|🟢|🔵| 
-| ----------- | ----------- | ----------- | ----------- | ----------- | 
-| [About](#about) | [Skills](#skills) | [Projects](#projects) | [Education](#education) | [Contact](#contact) |
-
+[About](#about) 
+[Projects](#projects) 
+[Contact](#contact)
 
 # Hi there, I'm Maguire McMahon! 👋
-
-![Profile Banner](./spiral.gif)
-
-
 ## About
-I'm a Frontend Developer currently pursuing my degree in Industrial & Systems Engineering. I'm passionate about creating immersive, beautiful, user-friendly and engaging web experiences. Constantly learning and exploring new technologies in the frontend realm is what keeps me motivated. 
-
-
-## Skills
-🔧 HTML5 | CSS | JavaScript | Java | C | Assembly | SQL
-
-💻 Database Management | Unit Testing | Figma | UI/UX
-
-⚛️ React | React Router | Redux | Node | Jest | P5.js | WEBGL
-
+I'm a Frontend Developer currently pursuing my degree in Industrial & Systems Engineering. I'm passionate about creating immersive, beautiful, user-friendly, and engaging web experiences. Constantly learning and exploring new technologies in the frontend realm is what keeps me motivated.
 
 ## Projects
-| 📛 Name      | 📎 Description | ⚛️ Languages | 
-| ----------- | ----------- | :-----------: |
-| 🟤 [Portfolio](https://github.com/mimcmahon20/My-Portfolio) | A collection of my best programming work using React and GSAP to handle animations. | React, GSAP, HTML, CSS |
-| 🔴 [McFlix](https://github.com/your-username/McFlix) | Experience the magic of McFlix, a Netflix clone that brings your favorite movies and TV shows to your screen. Explore various genres and enjoy smooth animations. Future plans include enhancing user interactions and optimizing animations. | React, GSAP, HTML, CSS |
-| 🟠 [Jammming Spotify App](https://github.com/mimcmahon20/Jammming-Spotify-Playlists) | My first React App I learned about state management, API requests, props, and much more. The app allows users to search for songs, add them to a playlist, add their most listened to songs, and add the playlist to their library. Note: This app requires access to be added in the backend for Spotify's API. If you'd like to try it reach out! | React, HTML, CSS |
-| 🟡 [Snake meets Djikstra's Algorithm](https://github.com/mimcmahon20/snake) | A combination of a Djikstra's pathfinding algorithm and the classic game Snake. The snake attempts to avoid its tail and the walls while collecting food thus extending its body. Currently, the snake is able to survive until it surrounds itself and loses vision of the food. | JS, HTML, CSS |
-| 🟢 [Ecosystem Simulation](https://github.com/mimcmahon20/Ecosystem) | An ecosystem with wolves as the predator, bunnies as the prey, evolution, breeding, and more! 3D visualization. | JS, P5.js |
-| 🔵 [Facility Optimizer](https://github.com/mimcmahon20/InteractiveFacilityLocationOptimizer) | A Python game where players guess optimal facility locations relative to random warehouses. Utilizes Gurobi for backend calculations, offering a fun way to learn about optimization and supply chain dynamics. | Python, Gurobi |
-
-
-
-
-## Education
-🎓 Virginia Tech | 3.0 GPA | Industrial & Systems Major | Computer Science & Human-Computer Interaction Minors
-
-✏ CodeCademy Frontend Engineering Career [Course](https://www.codecademy.com/career-journey/front-end-engineer)
-
+| 📛 Name | 📎 Description | ⚛️ Languages | 
+| ------- | ------------- | :----------: |
+| [MaguireCodes](https://github.com/mimcmahon20/MaguireCodes) | A portfolio showcasing my programming projects and skills. | React, Firebase, Node + Express |
+| [LadderL](https://github.com/mimcmahon20/LadderL) | A platform designed to enhance coding skills through practice and challenges. | HTML, CSS, JS |
+| [Jarvis](https://github.com/mimcmahon20/Jarvis) | A personal assistant application for managing daily tasks and schedules. | Python |
+| [Magos](https://github.com/mimcmahon20/Magos) | A creative project exploring innovative web technologies and interactive experiences. | React, CSS Modules |
 
 ## Contact
 ✉️ Email: mimcmahon20@vt.edu
-
 💼 LinkedIn: [Maguire McMahon](https://www.linkedin.com/in/maguire-mcmahon/)
-
-Feel free to reach out if you have any questions, collaboration ideas, or just want to say hello!
