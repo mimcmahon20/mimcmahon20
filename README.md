@@ -6,10 +6,10 @@ I'm a Frontend Developer currently pursuing my degree in Industrial & Systems En
 ## Projects
 | 📛 Name | 📎 Description | ⚛️ Languages | 
 | ------- | ------------- | :----------: |
-| [MaguireCodes](https://github.com/mimcmahon20/MaguireCodes) | A portfolio showcasing my programming projects and skills. | React, Firebase, Node + Express |
-| [LadderL](https://github.com/mimcmahon20/LadderL) | A platform designed to enhance coding skills through practice and challenges. | HTML, CSS, JS |
-| [Jarvis](https://github.com/mimcmahon20/Jarvis) | A personal assistant application for managing daily tasks and schedules. | Python |
-| [Magos](https://github.com/mimcmahon20/Magos) | A creative project exploring innovative web technologies and interactive experiences. | React, CSS Modules |
+| [MaguireCodes](https://github.com/mimcmahon20/MaguireCodes) | A full-stack tech blog where I share my website of the week and more.| React, Firebase, Node + Express |
+| [LadderL](https://github.com/mimcmahon20/LadderL) | A word ladder game inspired by popular games such as Wordle and Connections. | HTML, CSS, JS |
+| [Jarvis](https://github.com/mimcmahon20/Jarvis) | A voice-activated, personal assistant application for managing daily tasks and schedules. | Python |
+| [Magos](https://github.com/mimcmahon20/Magos) | A creative project simulating the MacOS desktop in Sonoma with windows, safari, and more. | React, CSS Modules |
 
 ## Contact
 ✉️ Email: mimcmahon20@vt.edu
